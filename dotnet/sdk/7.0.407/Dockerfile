@@ -1,1 +1,1 @@
-FROM docker pull mcr.microsoft.com/dotnet/sdk:7.0.407
+FROM mcr.microsoft.com/dotnet/sdk:7.0.407
